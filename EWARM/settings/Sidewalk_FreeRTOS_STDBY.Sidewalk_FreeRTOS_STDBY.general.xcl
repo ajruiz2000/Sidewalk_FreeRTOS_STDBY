@@ -1,0 +1,17 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armSTLINK.dll" 
+
+"C:\Users\raffaele riva\OneDrive - STMicroelectronics\Desktop\Subeca\Sidewalk_FreeRTOS_STDBY\EWARM\Sidewalk_FreeRTOS_STDBY\Exe\Sidewalk_FreeRTOS_STDBY.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32WBAxx.dmac" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32WBAxx_DBG.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/ST/FlashSTM32WBAxxxG.board" 
+
+
+
+
